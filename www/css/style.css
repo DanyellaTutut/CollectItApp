@@ -1,0 +1,77 @@
+/* Empty. Add your own CSS if you like */
+
+body .view-container.tab-content {
+  background-color: transparent;
+}
+
+body .pane, .menu, .view, .list, .item       {
+    background: transparent;
+}
+
+.images-parent{
+      text-align: center;
+    }
+.center-image{
+      margin:0 auto;
+     
+    }.
+ .item .row, .item .col {
+  padding: 0;
+  
+}
+body {
+    cursor: url('http://ionicframework.com/img/finger.png'), auto;
+}
+
+.header .col {
+    background-color:#b3ffb3;
+    text-align: center;
+    font-family: Arial;
+    font-weight: normal;
+    font-size: 20px;
+
+  }
+
+.col {
+    background-color:#dff0d8;
+    border: solid 3px green;
+    border-bottom-style: none;
+    border-right-style: none;
+    text-align: center;
+    font-family: Arial;
+    font-weight: normal;
+    font-size: 15px;
+}
+
+.col:last-child {
+    border-right: solid 3px green;
+}
+
+.row:last-child .col {
+    border-bottom: solid 3px green;
+}
+.tabs-top >.tabs, .tabs.tabs-top
+{
+    top: 0 !important;
+}
+
+/*.my-icon-user,
+.my-icon-user:before{
+  content: url('../img/user.png');
+  height: 100;
+}
+.my-icon-transac,
+.my-icon-user:before{
+  font-size:80px !important;
+  content: url('../img/transaction.png');
+}
+.my-icon-cal,
+.my-icon-user:before{
+  font-size:80px !important;
+  content: url('../img/calendar.png');
+}
+.my-icon-user,
+.my-icon-user:rep{
+  font-size:80px !important;
+  content: url('../img/report.gif');
+}*/
